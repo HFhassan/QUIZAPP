@@ -1,0 +1,41 @@
+.main {
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    font-weight: bolder;
+}
+
+#gk{
+    font:700; font-weight: bolder; background-color: aqua; width: 30%; height: 100px; text-align:center; padding-top:40px; border-radius: 10px; margin: 2%;
+}
+#iq{
+    text-align:center; font-weight: bolder; padding-top:40px; background-color: aquamarine;  width: 30%; height: 100px; border-radius: 10px; margin: 2%;
+}
+#islq{
+    text-align:center; font-weight: bolder; padding-top:40px; background-color: lemonchiffon;  width: 30%; height: 100px; border-radius: 10px; margin-top: 2%;
+}
+#iph{
+    text-align:center; font-weight: bolder; padding-top:40px; background-color: aquamarine;  width: 30%; height: 100px; border-radius: 10px; margin: 2%;
+}
+#e{
+    text-align:center; font-weight: bolder; padding-top:40px; background-color: lemonchiffon;  width: 30%; height: 100px; border-radius: 10px; margin: 2%;
+}
+#pt{
+    text-align:center; font-weight: bolder; padding-top:40px; background-color: aqua;  width: 30%; height: 100px; border-radius: 10px; margin-top: 2%;
+}
+#m{
+    text-align:center; font-weight: bolder; padding-top:40px; background-color: aqua;  width: 30%; height: 100px; border-radius: 10px; margin: 2%;
+}
+#if{
+    text-align:center; font-weight: bolder; padding-top:40px; background-color: aquamarine;  width: 30%; height: 100px; border-radius: 10px; margin: 2%;
+}
+#pa{
+    text-align:center;font-weight: bolder;  padding-top:40px; background-color: lemonchiffon;  width: 30%; height: 100px; border-radius: 10px; margin-top: 2%; 
+}
+
+#quizbtn
+{
+    text-decoration: none; color: black;
+}
